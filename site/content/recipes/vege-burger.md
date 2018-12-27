@@ -16,10 +16,17 @@ song: >-
 intro: >-
   There's something about these Aldi burger patties that not only crisps up
   nicely, but creates a really deep and satisfying flavour - almost like
-  rissoles! Paired with the tomato relish, this has a "mature" or "complex"
+  rissoles! Paired with the tomato chutney, this has a "mature" or "complex"
   flavour (i.e it doesn't taste like t-sauce and your run of the mill meat
   pattie), and if you fry the pattie on a high heat quickly you get a great
   seared bbq flavour as well.
+ingredients:
+  image: /img/vege_burger_items_resized_optim.jpg
+  text: |-
+    * Aldi burger rolls (6, $1.79)
+    * Aldi mixed salad (200g, $1.79)
+    * Aldi vegetarian burgers (4, $4.69)
+    * Coles tomato chutney (250g, $2.15)
 steps:
   - image: /img/vege_burger_step1_resized_optim.jpg
     text: >-
@@ -30,12 +37,19 @@ steps:
     text: Slice a burger bun in half
   - image: /img/vege_burger_step_3_resized_optim.jpg
     text: >-
-      Add 2 teaspoons (about 15g if you're measuring) of the tomato relish to
+      Add 2 teaspoons (about 15g if you're measuring) of the tomato chutney to
       the bun
   - image: /img/vege_burger_step_4_resized_optim.jpg
-    text: Add a handful of salad on top - the relish will help stick the leaves down
+    text: >-
+      Add a handful of salad on top - the chutney will help stick the leaves
+      down
   - image: /img/vege_burger_step_5_resized_optim.jpg
     text: 'Place the pattie on top, and put the bun back together.'
-outro: Enjoy!
+outro: >-
+  These ingredients will make 4 burgers, each costing $1.90. Annoyingly there'll
+  be 2 buns leftover, but these can be frozen and used later.
+
+
+  Enjoy!
 ---
 
